@@ -11,6 +11,7 @@
 ## Robots
 - http://agrobot.com/
 - https://www.ecorobotix.com/en/
+- https://farm.bot/
 
 ## Satellite data
 - List - https://gisgeography.com/free-satellite-imagery-data-list/
