@@ -14,4 +14,5 @@
 - https://farm.bot/
 
 ## Satellite data
-- List - https://gisgeography.com/free-satellite-imagery-data-list/
+- List - https://gisgeography.com/free-satellite-imagery-data-list
+- Lidar - https://opentopography.org/ - http://lidarportal.dnr.wa.gov/
