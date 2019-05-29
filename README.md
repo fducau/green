@@ -22,3 +22,4 @@
 
 ### Companies
 - Decartes Labs - https://www.descarteslabs.com/
+  - Map Making in the Age of Artificial Intelligence. [[lecture-vid]](https://www.youtube.com/watch?v=6Au4HuHdF60&feature=youtu.be)
