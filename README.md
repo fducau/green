@@ -7,6 +7,8 @@
 - Agrobiodiversity: The living library - https://www.nature.com/articles/544S8a
 - Standford Sustain Research Group - http://sustain.stanford.edu/projects/
 
+### Machine Learning
+Arielle J. Johnson et al. 2019 - Flavor-cyber-agriculture: Optimization of plant metabolites in an open-source control environment through surrogate modeling. [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213918) [pdf](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0213918&type=printable)
 
 ## Robots
 - Robotic harvester - http://agrobot.com/
