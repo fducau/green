@@ -22,7 +22,7 @@
 - List - https://gisgeography.com/free-satellite-imagery-data-list
 - Lidar - https://opentopography.org/ - http://lidarportal.dnr.wa.gov/
 ### Articles
-- Ermon et al. 2016. Combining satellite imagery and machine learning to predict poverty. [[pdf]](https://science.sciencemag.org/content/353/6301/790)
+- Ermon et al. 2016. Combining satellite imagery and machine learning to predict poverty. [[pdf]](https://science.sciencemag.org/content/353/6301/790) [[related-vid]](https://www.youtube.com/watch?v=AlDztqg_m7k)
 
 ### Companies
 - Decartes Labs - https://www.descarteslabs.com/
