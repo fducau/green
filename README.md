@@ -9,9 +9,10 @@
 
 
 ## Robots
-- http://agrobot.com/
-- https://www.ecorobotix.com/en/
-- https://farm.bot/
+- Robotic harvester - http://agrobot.com/
+- Weeding/fertilizer precision robot - https://www.ecorobotix.com/en/
+- Open Source CNC farming project - https://farm.bot/
+- List of agriculture drone companies - https://www.postscapes.com/agriculture-drone-companies/
 
 ## Satellite data
 - List - https://gisgeography.com/free-satellite-imagery-data-list
