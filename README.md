@@ -19,3 +19,6 @@
 ## Satellite data
 - List - https://gisgeography.com/free-satellite-imagery-data-list
 - Lidar - https://opentopography.org/ - http://lidarportal.dnr.wa.gov/
+
+### Companies
+- Decartes Labs - https://www.descarteslabs.com/
