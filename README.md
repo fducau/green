@@ -11,6 +11,7 @@
 
 ### Machine Learning
 - Arielle J. Johnson et al. 2019 - Flavor-cyber-agriculture: Optimization of plant metabolites in an open-source control environment through surrogate modeling. [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213918) [pdf](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0213918&type=printable)
+- Deep Learning for Biologists with Keras - https://github.com/totti0223/deep_learning_for_biologists_with_keras
 
 ## Robots
 - Robotic harvester - http://agrobot.com/
