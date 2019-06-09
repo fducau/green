@@ -27,6 +27,7 @@
 - Crop/Weed Field Image Dataset - [[dataset]](https://github.com/cwfid/dataset) [[paper]](https://rd.springer.com/chapter/10.1007%2F978-3-319-16220-1_8)
 - farmOS (open source farm management soft) - [[website]](https://farmos.org/)
 - openfarmcc - Open Farming DB - [[github]](https://github.com/openfarmcc/OpenFarm) [[web]](https://openfarm.cc/en#how-it-works)
+- Harvest Helper - Knolwedgebase - [[web]](https://harvesthelper.herokuapp.com/)[[github]](https://github.com/damwhit/harvest_helper)
 
 ## GIS
 - Awesome GIS - [[awesome]](https://github.com/sshuair/awesome-gis)
