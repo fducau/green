@@ -27,6 +27,9 @@
 - Crop/Weed Field Image Dataset - [[dataset]](https://github.com/cwfid/dataset) [[paper]](https://rd.springer.com/chapter/10.1007%2F978-3-319-16220-1_8)
 - farmOS (open source farm management soft) - [[website]](https://farmos.org/)
 
+## GIS
+- Awesome GIS - [[awesome]](https://github.com/sshuair/awesome-gis)
+
 ### Articles
 - Ermon et al. 2016. Combining satellite imagery and machine learning to predict poverty. [[pdf]](https://science.sciencemag.org/content/353/6301/790) [[related-vid]](https://www.youtube.com/watch?v=AlDztqg_m7k)
 
